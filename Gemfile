@@ -34,7 +34,7 @@ group :development, :test do
 end
 
 # Make erros better looking
-gem 'better_errors', '~> 2.5', '>= 2.5.1'
+gem 'better_errors', '~> 2.8'
 # Bulma CSS
 gem 'bulma-rails', '~> 0.8.0'
 # Simple Form
